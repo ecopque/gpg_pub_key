@@ -1,7 +1,7 @@
-# My Data
+# Edson's GPG Pub Key Repository
 
-## Repository with some data for sending files
+This repository contains essential data for sending encrypted files to me.
 
-- Get my gpg public key from "ecop_sendfile_publickey.asc" file.&nbsp;
-- Send encrypted files over any channel using this key.&nbsp;
-- This key was generated on a computer with internet access.&nbsp;
+- Get my GPG public key: Download the "ecop_sendfile_publickey.asc" file to obtain my GPG public key.
+- Send encrypted files: Use this key to encrypt files and send them over any channel of your choice.
+- About the key: This key was generated on a computer with internet access.
