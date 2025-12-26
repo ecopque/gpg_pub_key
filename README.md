@@ -2,7 +2,7 @@
 
 This repository contains essential data for sending encrypted files to me.
 
-- Get my GPG public key: Download the "ecop_sendfile_publickey.asc" file to obtain my GPG public key.
+- Get my GPG public key: Download the "public-key.asc" file to obtain my GPG public key.
 - Send encrypted files: Use this key to encrypt files and send them over any channel of your choice.
 - About the key: This key was generated on a computer with internet access.
 
